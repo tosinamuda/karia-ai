@@ -1,23 +1,6 @@
-# DataFest Full Stack LLM App Workshop
+# KariaAI 
 
-This project is a mono-repo template for boostraping a react frontend app and a python fastapi backend for building a full stack LLM app.
-
-# Requirements
-
-<ul>
-  <li>CLI Terminal</li>
-  <li>Setup <code>Python 3.8+ & Pip 3</code>: I recommend using Pyenv to install python and pip:
-    <ul>
-      <li>Windows Installation Guide: https://github.com/pyenv-win/pyenv-win</li>
-      <li>Mac Installation Guide: https://medium.com/geekculture/setting-up-python-environment-in-macos-using-pyenv-and-pipenv-116293da8e72</li>
-      <li>Linux Installation Guide: https://gist.github.com/trongnghia203/9cc8157acb1a9faad2de95c3175aa875</li>
-    </ul>
-  </li>
-  <li>NodeJS 16+: https://nodejs.org/en/download</li>
-  <li>OpenAI Account and API Key: https://help.openai.com/en/articles/4936850-where-do-i-find-my-secret-api-key OR Cloudflare AI API key: https://developers.cloudflare.com/workers-ai/get-started/rest-api/</li>
-  <li>Clone this repo and follow the ReadME instruction for setup: https://github.com/tosinamuda/datafest-llm-workshop</li>
-  <li>Working Internet to connect to internet to be able to access OpenAI API</li>
-</ul>
+Karia AI is a Career Advisor App for students to discover career paths that fits their interest and background.
 
 ## Development Setup
 
