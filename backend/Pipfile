@@ -8,7 +8,7 @@ fastapi = "*"
 pydantic = "*"
 openai = "*"
 uvicorn = {extras = ["standard"], version = "*"}
-
+llm-stack-kit = "*"
 
 [dev-packages]
 black = "*"
@@ -22,3 +22,6 @@ python_version = "3.10"
 start = "uvicorn app.main:app --host 0.0.0.0 --port 80 --reload"
 dev = "uvicorn app.main:app --reload"
 prompt = "python -m app.llm"
+
+[pipenv]
+allow_prereleases = true
