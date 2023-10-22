@@ -1,11 +1,15 @@
-import CareerAdvisorView from "@/components/career-advisor/CareerAdvisor";
 import Header from "@/components/Header";
+import CareerAdvisor from "@/views/CareerAdvisor";
+import FAQ from "./components/FAQ";
+import Footer from "./components/Footer";
 
 function App() {
   return (
     <>
       <Header />
-      <CareerAdvisorView />
+      <CareerAdvisor />
+      <FAQ />
+      <Footer />
     </>
   );
 }
