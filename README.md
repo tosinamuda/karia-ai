@@ -10,8 +10,8 @@ Karia AI is a Career Advisor App for students to discover career paths that fits
 
 ### Step by Step Instruction
 
-1. clone this repo by running `git clone https://github.com/tosinamuda/datafest-llm-workshop.git`
-2. Change your directory to datafest-llm-workshop by running: `cd datafest-llm-workshop`
+1. clone this repo by running `git clone [https://github.com/tosinamuda/datafest-llm-workshop.git](https://github.com/useentropy/kariaai/)`
+2. Change your directory to kariaai by running: `cd kariaai`
 3. Run `yarn` to install all the dependencies
 4. Copy the `.env.sample` to `.env` and replace the `OPENAI_API_KEY` or `CF_API_KEY` (Cloudflare API Key, include your CF Account ID if using cloudflare ) in .env with your own API Key
 5. Run ``yarn dev` to start a development environment
